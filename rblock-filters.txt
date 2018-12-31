@@ -1,0 +1,171 @@
+! https://amp.businessinsider.com/
+amp.businessinsider.com###sidebar > .masthead
+
+! https://amp.cnn.com/
+amp.cnn.com###amp-banner-cnn
+
+! https://community.logitech.com/
+community.logitech.com##.cGDPR_Notice_Community.logitech.Rectangle.slds-align_absolute-center.slds-p-vertical_xx-large.slds-wrap.slds-grid
+
+! https://dfw.cbslocal.com/
+dfw.cbslocal.com##.adhesive-on.anvato.video-wrapper
+
+! https://getpocket.com/
+getpocket.com##.header-secondary > .signup-container
+
+! https://gizmodo.com/
+gizmodo.com##.sharingfooter
+
+! https://kotaku.com/
+kotaku.com##.sharingfooter
+
+! https://linuxconfig.org/
+linuxconfig.org##.ckcontent
+
+! https://m.huffpost.com/
+m.huffpost.com##.consentPopup
+
+! https://m.imgur.com/
+m.imgur.com##.FloatingOIA-link
+
+! https://m.imgur.com/
+m.imgur.com##.icon-x.FloatingOIA-close
+
+! https://m.imgur.com/
+m.imgur.com##.Navbar
+
+! https://nypost.com/
+nypost.com##header > .nypost.social-share
+
+! https://qz.com/
+qz.com###gdpr-consent-ui
+
+! https://reddit.com/
+www.reddit.com##.NavFrame > .xpromoMinimal.DualPartInterstitial > .DualPartInterstitial__content > .DualPartInterstitial__common > .DualPartInterstitialFooter
+
+! https://thegrapevine.theroot.com/
+thegrapevine.theroot.com###sharingfooter
+
+! https://www.bloomberg.com/
+www.bloomberg.com###paywall-banner
+
+! https://www.buzzfeednews.com/
+www.buzzfeednews.com###mod-action-bar-3
+
+! https://www.citylab.com/
+www.citylab.com##.is-active.js-action-bar.c-action-bar
+
+! https://www.cnbc.com/
+www.cnbc.com###sidebar > ul
+
+! https://www.dailystar.co.uk/
+www.dailystar.co.uk###gdprNotification
+
+! https://www.dxzone.com/
+www.dxzone.com##.cc-color-override-688238583.cc-top.cc-theme-classic.cc-type-info.cc-floating.cc-window
+
+! https://www.fastcompany.com/
+www.fastcompany.com##.notification
+
+! https://www.forbes.com/
+www.forbes.com##.content
+
+! https://www.forbes.com/
+www.forbes.com##.header
+
+! https://www.hackster.io/
+www.hackster.io##.project_count_banner__banner__7LvJ4
+
+! https://www.mirror.co.uk/
+www.mirror.co.uk##.captify-iframe
+
+! https://www.msn.com/
+www.msn.com###smartbanner
+
+! https://www.nbc4i.com/
+www.nbc4i.com###smartbanner
+
+! https://www.newyorker.com/
+www.newyorker.com##.paywall-growler
+
+! https://www.nytimes.com/
+www.nytimes.com##.css-9ynegn
+
+! https://www.nytimes.com/
+www.nytimes.com##.css-gc0ffx
+
+! https://www.nytimes.com/
+www.nytimes.com##.dock-message
+
+! https://www.nytimes.com/
+www.nytimes.com##.dock-wrapper
+
+! https://www.nytimes.com/
+www.nytimes.com##.e1wet1p0.css-zrcjv6.expanded
+
+! https://www.nytimes.com/
+www.nytimes.com##.e1yhpxjt0.css-1yboj43
+
+! https://www.openhab.org/
+www.openhab.org##.cookieinfo
+
+! https://www.politico.com/
+www.politico.com##.cookie-modal__inner
+
+! https://www.politifact.com/
+www.politifact.com##.cookie-notice-wrapper
+
+! https://www.politifact.com/
+www.politifact.com###pf-newsletter-form
+
+! https://www.polygon.com/
+www.polygon.com###privacy-consent-ui
+
+! https://www.reddit.com/r/all
+www.reddit.com##.pulse.TopButton
+
+! https://www.reddit.com/r/all
+www.reddit.com##.XPromoPill
+
+! https://www.reddit.com/
+www.reddit.com##.Loading
+
+! https://www.reddit.com/
+www.reddit.com##.nightmode.amp.SnackBar
+
+! https://www.reddit.com/
+www.reddit.com##.pending.visible.ShareCTA
+
+! https://www.reddit.com/
+www.reddit.com##.ShareCTA__content
+
+! https://www.reddit.com/
+www.reddit.com##.XPromoPopup__actions
+
+! https://www.reddit.com/
+www.reddit.com##.XPromoPopup__content
+
+! https://www.reddit.com/
+www.reddit.com##.XPromoPopup__overlay
+
+! https://www.theatlantic.com/
+www.theatlantic.com###consent-flow
+
+! https://www.theguardian.com/
+www.theguardian.com##.js-site-message-inner.site-message__inner
+
+! https://www.theverge.com/
+www.theverge.com###privacy-consent-ui
+
+! https://www.vox.com/
+www.vox.com##.privacy-consent-notice
+
+! https://www.vox.com/
+www.vox.com###privacy-consent-ui
+
+! https://www.zerohedge.com/
+www.zerohedge.com###abd-banner
+
+! http://www.philly.com/
+www.philly.com###app-bar
+
