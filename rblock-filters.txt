@@ -37,6 +37,9 @@ m.imgur.com##.Navbar
 ! https://nypost.com/
 nypost.com##header > .nypost.social-share
 
+! https://old.reddit.com/
+old.reddit.com##.in.login-modal.fade.modal
+
 ! https://qz.com/
 qz.com###gdpr-consent-ui
 
